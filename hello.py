@@ -45,7 +45,7 @@ def draw():
 
 
 
-    save_frame(filename="/home/kali/Shubham/pyanimations/photos/screen.png")
+    # save_frame(filename="photos/screen.png")
 
 
 try:
